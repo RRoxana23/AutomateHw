@@ -1,0 +1,5 @@
+﻿  moc mainwindow.h
+  main.cpp
+  mainwindow.cpp
+  moc_mainwindow.cpp
+  AutomateProjectQt.vcxproj -> C:\Users\Rox\Desktop\AutomateProjectQt\x64\Debug\AutomateProjectQt.exe
